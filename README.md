@@ -168,4 +168,3 @@ python app.py
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!ting forest fire burned area using Random Forest and Gradio
